@@ -1,123 +1,58 @@
+# Sri Sai Bharath Uppalapati
+
+### Data Analyst | 4+ years of experience  
+📍 Middletown, CT | 📧 uppalapatisrisaibharath@gmail.com | 📞 860-746-2285 | [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+
 ---
-layout: default
+
+## About Me
+
+Data Analyst with 4+ years of experience in data manipulation, analysis, and visualization. Proficient in SQL, Python, R, Tableau, Power BI, and cloud platforms. Skilled at delivering actionable insights to drive strategic decision-making and improve business outcomes.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Experience
 
-[Link to another page](./another-page.html).
+### Cigna Group | Senior Data Analyst | July 2024 – Present  
+- Analyzed large-scale healthcare datasets using SQL and Python  
+- Built dashboards in Tableau and Power BI  
+- Developed machine learning models for fraud detection and risk scoring  
 
-There should be whitespace between paragraphs.
+### Charter Communications | Senior Data Analyst | July 2023 – May 2024  
+- Analyzed telecom datasets using SQL, Hive, Spark  
+- Created predictive models for customer churn  
+- Built scalable data pipelines with Airflow  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### DCB Bank | Data Analyst | Sep 2021 – Aug 2022  
+- Designed data pipelines and dashboards  
+- Automated reporting using Python and Jenkins  
+- Built ML models for credit risk and fraud detection  
 
-# Header 1
+### Bharti AXA General Insurance | Data Analyst | June 2020 – Aug 2021  
+- Created interactive dashboards using Tableau and Power BI  
+- Built ML models to predict customer behavior  
+- Managed large data warehouses using Redshift and Snowflake  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Rivier University**  
+Masters in Computer Science, USA (2022 - 2024)
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Skills
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+SQL, Python, R, Tableau, Power BI, Looker, Hadoop, Spark, Snowflake, Machine Learning, AWS, Azure, GCP, ETL, Data Visualization, Data Analysis
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Contact
 
-##### Header 5
+📧 uppalapatisrisaibharath@gmail.com  
+📞 860-746-2285  
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
